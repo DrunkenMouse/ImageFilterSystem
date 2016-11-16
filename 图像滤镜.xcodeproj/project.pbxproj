@@ -507,6 +507,7 @@
 				162C8DD81DD3FC8600B4192B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		162C8DD91DD3FC8600B4192B /* Build configuration list for PBXNativeTarget "图像滤镜Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				162C8DDB1DD3FC8600B4192B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		162C8DDC1DD3FC8600B4192B /* Build configuration list for PBXNativeTarget "图像滤镜UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				162C8DDE1DD3FC8600B4192B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
